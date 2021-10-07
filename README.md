@@ -7,3 +7,5 @@ Test to change username on local git repositories.
 final test for global name change.
 
 final test.
+
+'testing merging from a branch'
